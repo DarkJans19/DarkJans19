@@ -38,7 +38,7 @@ I enjoy understanding **why a system is designed a certain way**, not just makin
 <p align="center"><img alt="PostgreSQL and MongoDB" src="https://skillicons.dev/icons?i=postgres,mongodb&amp;theme=dark" /></p>
 
 <p align="center"><strong>Infrastructure and development tools</strong></p>
-<p align="center"><img alt="Docker, Git, GitHub, Linux and Postman" src="https://skillicons.dev/icons?i=docker,git,github,linux,postman&amp;theme=dark" /></p>
+<p align="center"><img alt="Docker, Git, GitHub, Linux and Postman" src="https://skillicons.dev/icons?i=docker,git,github,arch,postman&amp;theme=dark" /></p>
 
 **Areas I work with:** REST API design, Java and JPA/Hibernate, SQL, Docker Compose, Git/GitHub, UML, MVC, layered and clean architecture, and requirements analysis.
 
@@ -51,11 +51,15 @@ I enjoy understanding **why a system is designed a certain way**, not just makin
 | **[Academic Management MVC](https://github.com/Janh-Sanchez/GestionAcademicaMVC)** | A Java application organized around domain models, controllers, persistence, and academic management workflows. **This is a Java MVC application, not a Spring Boot API.** | Java 17, Hibernate/JPA, PostgreSQL, Maven | Academic project |
 | **[Purchasing Microservices](https://github.com/DarkJans19/microservices/tree/main/sistema-compras)** | A learning project separating customer, product, and purchasing services, with individual Node.js APIs and a PostgreSQL service orchestrated using Docker Compose. | Node.js, PostgreSQL, Docker Compose | Backend and distributed-systems practice |
 
-### Real-client experience: Jardín Infantil Semillas
+### Academic Management System — Semillas Kindergarten
 
-Worked with a team on an academic management solution for a real client. The project involved **requirements gathering**, identifying enrollment and group-management needs, and developing a full-stack system with **Vue, FastAPI, Docker, and Docker Compose**.
+Developed a functional full-stack academic management system for a real kindergarten client. The project began with direct meetings with the institution's owner to understand the challenges of managing student enrollment, available places, and academic group assignments.
 
-*The original repository link is not currently publicly accessible, so it is intentionally not linked here. This entry describes the project experience rather than publishing the original page.*
+Based on these discussions, our team gathered and analyzed requirements to design a solution that centralized **student registration, enrollment capacity management, and student administration**, helping the institution organize its daily administrative processes more efficiently.
+
+The application was developed using **Vue.js, Python/FastAPI, Docker, and Docker Compose**, integrating frontend and backend services into a functional system.
+
+**Project outcome:** A working application developed collaboratively around real client requirements. Although the system was completed and functional, it was not publicly deployed, and its source code is not available in a public repository.
 
 ## Hackathons and applied projects
 
@@ -69,7 +73,7 @@ Worked with a team on an academic management solution for a real client. The pro
 
 - **[Water Quality / IDEAM - DQO Research](https://github.com/DarkJans19/water_dqo):** data preparation, reproducible experiments, and comparison of machine learning approaches for water-quality estimation across time and monitoring stations.
 - **[Hotel Database and Java System](https://github.com/Janh-Sanchez/Database_Project):** collaborative academic work on relational modeling, SQL, persistence, and a Java application.
-- **[GameJam 2026 - Lunae](https://github.com/DarkJans19/GameJam_2026):** collaborative card-and-combat game prototype built in Godot / GDScript.
+- **[GameJam 2026 - Lunae](https://github.com/DarkJans19/GameJam_2026):**: A strategic card-based combat game prototype developed in **Godot 4 and GDScript** during the ACM GameJam. Each card features unique abilities and special effects that become more powerful depending on the current **moon phase**, encouraging strategic decisions about when and how to play cards. The project involved implementing card mechanics, combat systems, and modular gameplay components through collaborative development.
 
 ## Learning and engineering goals
 
