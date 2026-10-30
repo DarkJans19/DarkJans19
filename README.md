@@ -73,7 +73,7 @@ The application was developed using **Vue.js, Python/FastAPI, Docker, and Docker
 
 - **[Water Quality / IDEAM - DQO Research](https://github.com/DarkJans19/water_dqo):** data preparation, reproducible experiments, and comparison of machine learning approaches for water-quality estimation across time and monitoring stations.
 - **[Hotel Database and Java System](https://github.com/Janh-Sanchez/Database_Project):** collaborative academic work on relational modeling, SQL, persistence, and a Java application.
-- **[GameJam 2026 - Lunae](https://github.com/DarkJans19/GameJam_2026):**: A strategic card-based combat game prototype developed in **Godot 4 and GDScript** during the ACM GameJam. Each card features unique abilities and special effects that become more powerful depending on the current **moon phase**, encouraging strategic decisions about when and how to play cards. The project involved implementing card mechanics, combat systems, and modular gameplay components through collaborative development.
+- **[GameJam 2026 - Lunae](https://github.com/DarkJans19/GameJam_2026):** A strategic card-based combat game prototype developed in **Godot 4 and GDScript** during the ACM GameJam. Each card features unique abilities and special effects that become more powerful depending on the current **moon phase**, encouraging strategic decisions about when and how to play cards. The project involved implementing card mechanics, combat systems, and modular gameplay components through collaborative development.
 
 ## Learning and engineering goals
 
@@ -100,7 +100,6 @@ My current goals are to grow as a **backend developer** and, over time, speciali
   Interested in backend systems, API engineering, or collaborative software projects?<br>
   <a href="https://www.linkedin.com/in/jan-henrik-sanchez-jerez-1499a7435/"><strong>LinkedIn</strong></a> &middot;
   <a href="mailto:janhsanchezj@gmail.com"><strong>Email</strong></a> &middot;
-  <a href="https://github.com/DarkJans19"><strong>Main GitHub</strong></a> &middot;
   <a href="https://github.com/Janh-Sanchez"><strong>Academic GitHub</strong></a>
 </p>
 <p align="center">
